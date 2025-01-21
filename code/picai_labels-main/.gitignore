@@ -1,0 +1,4 @@
+.DS_Store
+./data/6624726/*
+./code/picai_labels-main/anatomical_delineations/*
+./code/picai_labels-main/csPCa_lesion_delineations/*
